@@ -1,6 +1,5 @@
 export const skills = {
   Web: [
-    { name: "Flask", percent: 70 },
     { name: "Django", percent: 50 },
     { name: "Gatsby", percent: 40 },
     { name: "MongoDB", percent: 30 },
@@ -10,7 +9,7 @@ export const skills = {
   Programming: [
     { name: "C", percent: 70 },
     { name: "Python", percent: 60 },  
-    { name: "Java", percent: 50 },
+    { name: "Java", percent: 40 },
     { name: "JavaScript", percent: 30 },
   ],
   Tools: [

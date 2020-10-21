@@ -86,7 +86,7 @@ const Header = () => {
               <a
                 target="__blank"
                 rel="noopener noreferrer"
-                href="blglink"
+                href="https://rabbii.me/blog/"
               >
                 Blog
               </a>
