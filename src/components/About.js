@@ -16,7 +16,7 @@ const About = () => {
           <div className="about-details">
             <p>
             Hello, I am Moshiul Huq Rabbi.Exploring and Learning the concept of Computer's Mind.Terminal bug excites me.
-            Studying Computer Science at Daffodil International University
+            Studying Computer Science in Daffodil International University
             </p>
             <div className="about-action">
               <Button
