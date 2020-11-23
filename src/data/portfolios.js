@@ -47,6 +47,15 @@ export const portfolios = {
   Achivement: [
     {
       type: "featured",
+      name: "Computer Science for Web Programming",
+      image: require("./image/cs50web.jpg"),
+      description: "Web Development With python and django.Professional CS50 Course.Thanks to Quarantine",
+      demo: "https://credentials.edx.org/credentials/fd98e5e5c93c4268b1f61f0bdf342270/",  
+      
+      tools: ["Django","API","JS","react"],
+    },
+    {
+      type: "featured",
       name: "CS50's Introduction to Computer Science",
       image: require("./image/cs50intro.jpg"),
       description: "I completed twice (2 different version) of this course. Loved It",
@@ -62,19 +71,12 @@ export const portfolios = {
       tools: ["Core python"],
     },
     {
-      type: "featured",
+      type: "regular",
       name: "AWS Fundamentals: Going Cloud-Native",
       image: require("./image/aws.jpg"),
       description:"Learned some fundamental concept of Cloud Tech",
       demo: "https://www.coursera.org/account/accomplishments/verify/FNXPHA4YW2DP",
       tools: ["vpc","ec2" ,"aws console","cloud database"],
-    },  
-    {
-      type: "regular",
-      name: "CS50's Web Programming with Python and JavaScript",
-      description: "Another harvard course. Currently learning",
-      demo: "https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript",
-      tools: ["git","django","API","javascript","sql" ,"react"],
     },
     {
       type: "regular",

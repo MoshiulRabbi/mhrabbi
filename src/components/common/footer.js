@@ -33,9 +33,6 @@ export const Footer = () => {
                   rel="noopener noreferrer"
                   href="https://github.com/MoshiulRabbi/mhrabbi"
                 >
-                  <p>
-                    <FaStar /> Star
-                  </p>
                 </a>
               </li>
             </ul>

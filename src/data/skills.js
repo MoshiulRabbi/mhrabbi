@@ -11,6 +11,7 @@ export const skills = {
     { name: "Python", percent: 60 },  
     { name: "Java", percent: 40 },
     { name: "JavaScript", percent: 30 },
+    { name: "'%' is Based on syntax & EXP."},
   ],
   Tools: [
     { name: "Git", percent: 90 },

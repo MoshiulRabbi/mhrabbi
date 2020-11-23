@@ -27,12 +27,6 @@ const Contact = () => {
           <div className="contact-details">
             <ul>
               <li>
-                <h5>Email</h5>
-                <p>
-                moshiul15-12574@diu.edu.bd <span>(Recommended)</span>
-                </p>
-              </li>
-              <li>
                 <h5>Social</h5>
                 <p>
                   Twitter - @mhra1313i <span>(Slow response)</span>
