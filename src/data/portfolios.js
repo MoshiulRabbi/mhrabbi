@@ -59,7 +59,7 @@ export const portfolios = {
       name: "CS50's Introduction to Computer Science",
       image: require("./image/cs50intro.jpg"),
       description: "I completed twice (2 different version) of this course. Loved It",
-      demo: "https://courses.edx.org/certificates/bd1b89e7cfbf4d64aa8c05b50d3968a1",
+      demo: "https://courses.edx.org/certificates/1d08ecd276974c5eb63f1d010efe1e6c",
       tools: ["C","python","sql","javascript","html","css",],
     },
     {
