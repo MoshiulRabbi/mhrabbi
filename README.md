@@ -1,5 +1,5 @@
 
-![Build](https://github.com/actions/mhrabbi/workflows/.github/workflows/main.yml/badge.svg)
+[![Build Actions Status](https://github.com/MoshiulRabbi/mhrabbi/workflows/mhworkflow/badge.svg)](https://github.com/MoshiulRabbi/mhrabbi/actions)
 
 
 
