@@ -37,7 +37,7 @@ export const Footer = () => {
               </li>
             </ul>
             <p>
-               © 2020 Rabbi{" "}
+               © 2021 Rabbi{" "}
               <span onClick={handleScroll}>
                 <FaAngleUp />
               </span>
