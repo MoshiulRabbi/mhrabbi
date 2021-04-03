@@ -1,20 +1,21 @@
 export const skills = {
   Web: [
-    { name: "Django", percent: 50 },
-    { name: "Gatsby", percent: 40 },
-    { name: "MongoDB", percent: 30 },
-    { name: "MySQL", percent: 40 },
+    { name: "Django", percent: 70 },
+    { name: "Django Rest", percent: 50},
+    { name: "Flask", percent: 40 },
+    { name: "MSSQL", percent: 60 },
+    { name: "ReactJs", percent: 20 },
   ],
 
   Programming: [
-    { name: "C", percent: 70 },
-    { name: "Python", percent: 60 },  
-    { name: "Java", percent: 40 },
+    { name: "Python", percent: 70 },
+    { name: "C", percent: 60 },  
     { name: "JavaScript", percent: 30 },
-    { name: "'%' is Based on syntax & EXP."},
+    { name: "Java", percent: 40 },
   ],
   Tools: [
     { name: "Git", percent: 90 },
+    { name: "Vim", percent:60},
     { name: "Docker", percent: 50 },
     { name: "EC2 (AWS)", percent: 40 },
     { name: "Penetration Testing", percent:40 },
@@ -22,6 +23,7 @@ export const skills = {
   ],
   Others: [
     { name: "SVG", percent: 80 },
+    { name: "Jekyll",percent: 30},
     { name: "Typing (70+ WPM )" },
     { name: "Adobe XD", percent: 70 },
     { name: "Morse code", percent: 90 },
