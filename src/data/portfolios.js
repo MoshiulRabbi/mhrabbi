@@ -14,9 +14,8 @@ export const portfolios = {
       name: "api",
       image: require("./image/api.png"),
       description: "Realtime Weather Update and Random Activity Generator with a simple Todo app integrated with Rest-Api",
-      demo: "https://djpyapi.herokuapp.com/",
       demo: "https://djpyapi.herokuapp.com/todo/",
-      source: "https://github.com/MoshiulRabbi/Network",
+      source: "https://github.com/MoshiulRabbi/api",
       tools: ["Django-rest", "api-fetching"],
     },
     {
