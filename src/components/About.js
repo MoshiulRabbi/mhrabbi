@@ -15,7 +15,7 @@ const About = () => {
         <div className="about">
           <div className="about-details">
             <p>
-            Hello, I am Moshiul Huq Rabbi.Exploring and Learning the concept of Computer's Mind.Terminal bug excites me.
+            Hello, I am Moshiul Huq Rabbi.Exploring and Learning the concept of Computer.Terminal bug excites me.
             Currently Studying Computer Science (BSc)
             </p>
             <div className="about-action">

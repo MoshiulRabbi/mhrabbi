@@ -17,7 +17,7 @@ const Intro = () => {
             <ul>
               <li>Back End Programming</li>
               <li>Cloud Developing</li>
-              <li>Automation</li>
+              <li>ML</li>
             </ul>
             <div className="action">
               <Button
