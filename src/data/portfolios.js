@@ -13,7 +13,7 @@ export const portfolios = {
       type: "featured",
       name: "apias",
       image: require("./image/api.png"),
-      description: "Realtime Weather Update and Random Activity Generator with a simple Todo app integrated with Rest-Api",
+      description: "A Machine learning model endpoint integrated with Rest-Api,Realtime Weather Update and Random Activity Generator with a simple Todo app",
       demo: "https://djpyapi.herokuapp.com/todo/",
       source: "https://github.com/MoshiulRabbi/api",
       tools: ["Django-rest", "api-fetching"],
