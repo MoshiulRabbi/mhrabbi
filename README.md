@@ -3,8 +3,5 @@
 
 
 
-Personal Portfoilo Web
+Personal portfoilo web
 
-Check out the [Original Repo] for more details
-
-[original repo]:https://github.com/zonayedpca/zonayed.me
