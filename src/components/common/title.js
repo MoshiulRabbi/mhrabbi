@@ -30,7 +30,7 @@ export const Title = ({ title, social, side, height }) => {
             <a
               target="_blank"
               rel="noopener noreferrer"
-              href="https://www.linkedin.com/in/mhrabbi"
+              href="https://www.linkedin.com/in/moshiulrabbi/"
             >
               <FaLinkedinIn />
             </a>
